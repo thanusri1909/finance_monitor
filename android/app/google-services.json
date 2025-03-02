@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585807019485",
+    "project_id": "finance-monitor-6e0f1",
+    "storage_bucket": "finance-monitor-6e0f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585807019485:android:32a776c92972ae86898a34",
+        "android_client_info": {
+          "package_name": "com.example.finance_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLt06HjPn2ldJiCgFyKj3JcH9MT5vmFfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -43,6 +43,7 @@ dependencies:
   intl: ^0.20.2
   dropdown_textfield: ^1.2.0
   dropdown_button2: ^2.3.9
+  cloud_firestore: ^5.6.5
 
 dev_dependencies:
   flutter_test:
